@@ -261,33 +261,33 @@ section:nth-child(even){
 
 
 /* sobre inicio */
-.about .row{
+.sobre .row{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
 }
 
-.about .row .image{
+.sobre .row .image{
     flex: 1 1 45rem;
 }
 
-.about .row .image img{
+.sobre .row .image img{
     width: 100%;
 }
 
-.about .row .content{
+.sobre .row .content{
     flex: 1 1 45rem;
 }
 
-.about .row .content h3{
+.sobre .row .content h3{
     color: var(--black);
     text-shadow: var(--text-shadow);
     font-size: 4rem;
     line-height: 1.6;
 }
 
-.about .row .content p{
+.sobre .row .content p{
     color: var(--light-color);
     padding: 1rem 0;
     font-size: 1.5rem;
